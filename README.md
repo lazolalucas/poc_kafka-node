@@ -12,6 +12,6 @@ Notes:
    spotify/kafkaproxy
 
 - optional: update producer.js files vars 'message' and 'keyedMessage' to your prefered messages
-- optional: 
+
 - run node ./producer.js to produce to Kafka topic 'my-topic'
 - run node ./consume.js to consume from Kafka topic 'my-topic'
